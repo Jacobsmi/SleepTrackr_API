@@ -1,0 +1,17 @@
+{
+  "name": "sleeptrackr_api",
+  "version": "0.0.1",
+  "description": "API for the SleepTackr web app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Jacobs",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg-promise": "^10.7.0"
+  }
+}
